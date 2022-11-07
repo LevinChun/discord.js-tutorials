@@ -23,4 +23,8 @@ module.exports = {
 
 <br/>
 
-If Any Bug Open Pull Request
+If Any Bug Open Pull Request 
+
+<br/>
+
+All Managed Code by Seven Development
